@@ -1,0 +1,9 @@
+[submodule "3rdparty/STC"]
+	path = 3rdparty/STC
+	url = https://github.com/stclib/STC
+[submodule "3rdparty/Nuklear"]
+	path = 3rdparty/Nuklear
+	url = https://github.com/Immediate-Mode-UI/Nuklear.git
+[submodule "3rdparty/SDL"]
+	path = 3rdparty/SDL
+	url = https://github.com/libsdl-org/SDL
