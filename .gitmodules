@@ -7,3 +7,6 @@
 [submodule "3rdparty/SDL"]
 	path = 3rdparty/SDL
 	url = https://github.com/libsdl-org/SDL
+[submodule "3rdparty/pimbs"]
+	path = 3rdparty/pimbs
+	url = https://github.com/Visendev/pimbs
